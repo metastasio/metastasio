@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maya</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning: **TypeScript**
 
 - 📫 How to reach me **myaldzina.m@gmail.com**
 
